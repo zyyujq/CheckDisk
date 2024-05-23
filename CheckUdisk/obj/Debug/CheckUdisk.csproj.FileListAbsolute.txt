@@ -1,0 +1,11 @@
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\bin\Debug\CheckUdisk.exe.config
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\bin\Debug\CheckUdisk.exe
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\bin\Debug\CheckUdisk.pdb
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.Form1.resources
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.Form2.resources
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.Properties.Resources.resources
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.csproj.GenerateResource.cache
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.csproj.CoreCompileInputs.cache
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.exe
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.pdb
+F:\Source Code\DownCode\CheckUdisk\CheckUdisk\obj\Debug\CheckUdisk.csprojAssemblyReference.cache
